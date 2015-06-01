@@ -1,8 +1,7 @@
 ---
 tags: vim
+title: Vim Profiling
 ---
-
-# Vim Profiling
 
 I recently encountered a situation where Vim was taking an *excruciatingly* long
 time to launch. From some manual testing, I was able to isolate the problem to a
