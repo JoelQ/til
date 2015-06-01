@@ -1,3 +1,7 @@
+---
+tags: vim
+---
+
 # Custom commands
 
 Custom commands in Vim are defined via the `command` command. As I learn new

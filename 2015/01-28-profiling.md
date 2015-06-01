@@ -1,3 +1,7 @@
+---
+tags: vim
+---
+
 # Vim Profiling
 
 I recently encountered a situation where Vim was taking an *excruciatingly* long

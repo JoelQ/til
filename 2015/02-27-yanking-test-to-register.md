@@ -1,3 +1,7 @@
+---
+tags: vim
+---
+
 # Yanking text to register
 
 Yanking and deleting text will save the text to the same unnamed register. Every

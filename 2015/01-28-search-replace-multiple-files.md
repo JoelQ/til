@@ -1,3 +1,7 @@
+---
+tags: vim
+---
+
 # Search & Replace in multiple files
 
 I recently had to replace static files path in multiple files from a project

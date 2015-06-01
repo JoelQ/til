@@ -1,3 +1,7 @@
+---
+tags: vim
+---
+
 # Easy file diffing
 
 Vim comes with its own diff viewer. It can be launched from the command-line
